@@ -1,8 +1,6 @@
 # Unsupervised-Learning
 ## Repository for unsupervised learning techniques
 
----
-
 **mtcars.csv**
 
 *Data Background* 
